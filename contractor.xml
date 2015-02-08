@@ -18,7 +18,7 @@
 		<filename>controller.php</filename>
 		<filename>index.html</filename>
 		<filename>contractor.php</filename>
-		<filename>routor.php</filename>
+		<filename>router.php</filename>
 	</files>
 	<administration>
 		<menu img="class:newsfeeds">Аптечные сети контрагенты</menu>
